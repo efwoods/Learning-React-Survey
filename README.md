@@ -1,2 +1,2 @@
-# learning-react-survey
+# Learning-React-Survey
 A tutorial Survey
